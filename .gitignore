@@ -107,4 +107,5 @@ $RECYCLE.BIN/
 
 .idea
 venv
-*__pycache__
+app/__pycache__*
+*.pyc
